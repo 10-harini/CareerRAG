@@ -3,11 +3,14 @@
 ### Home Page
 ![CareerRAG Home](homepage1up.png)
 
+
 ### Home Page
 ![CareerRAG Home](homepage1down.png)
 
+
 ### Resume Analyzer
 ![Resume Analyzer](resumeanalyser.png)
+
 
 ### Job Matching
 ![Job Matching](jobmatch.png)
@@ -16,6 +19,7 @@
 ### Skill Gap Analysis
 ![Skill Gap Analysis](skillgapanalysis.png)
 
+
 ### Career Roadmap
 ![Career Roadmap](careerroadmap.png)
 
@@ -23,9 +27,9 @@
 ### Interview Coach
 ![Interview Coach](interviewcoach.png)
 
+
 ### AI Career Chat
 ![AI Career Chat](AIcareerchat.png)
-
 
 
 ### Swagger Up
@@ -46,29 +50,6 @@
 CareerRAG is an AI-powered career assistant that helps users analyze resumes, match their skills with job opportunities, identify skill gaps, explore career roadmaps, and prepare for interviews.
 
 The application combines retrieval-based matching and generative AI to provide personalized career insights and interview feedback.
-
-## 📸 Screenshots
-
-### Home Page
-![CareerRAG Home Page](homepage1up.png)
-
-### Resume Analyzer
-![Resume Analyzer](resumeanalyser.png)
-
-### Job Matching
-![Job Matching](jobmatch.png)
-
-### Interview Coach
-![Interview Coach](interviewcoach.png)
-
-### Career Roadmap
-![Career Roadmap](careerroadmap.png)
-
-### Skill Gap Analysis
-![Skill Gap Analysis](skillgapanalysis.png)
-
-### AI Career Chat
-![AI Career Chat](AIcareerchat.png)
 
 ## ✨ Features
 
@@ -187,11 +168,6 @@ When the backend is running, open:
 
 `http://127.0.0.1:8000/docs`
 
-### Swagger UI Screenshots
-
-![CareerRAG Swagger UI](swaggerup.png)
-
-![CareerRAG Swagger UI — Additional Endpoints](swaggerdown.png)
 
 ## 💡 Example Use Cases
 
