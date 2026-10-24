@@ -3,6 +3,9 @@
 ### Home Page
 ![CareerRAG Home](homepage1up.png)
 
+### Home Page
+![CareerRAG Home](homepage1down.png)
+
 ### Resume Analyzer
 ![Resume Analyzer](resumeanalyser.png)
 
@@ -20,3 +23,13 @@
 
 ### AI Career Chat
 ![AI Career Chat](AIcareerchat.png)
+
+
+
+### Swagger Up
+![AI Career Chat](swaggerup.png)
+
+
+### Swagger Down
+![AI Career Chat](swaggerdown.png)
+
