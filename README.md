@@ -12,14 +12,15 @@
 ### Job Matching
 ![Job Matching](jobmatch.png)
 
+
+### Skill Gap Analysis
+![Skill Gap Analysis](skillgapanalysis.png)
+
 ### Interview Coach
 ![Interview Coach](interviewcoach.png)
 
 ### Career Roadmap
 ![Career Roadmap](careerroadmap.png)
-
-### Skill Gap Analysis
-![Skill Gap Analysis](skillgapanalysis.png)
 
 ### AI Career Chat
 ![AI Career Chat](AIcareerchat.png)
